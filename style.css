@@ -6,7 +6,10 @@
 }
 
 body {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.55)), url(./image/img2.jpg);
+    background-image:
+        linear-gradient(rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.55)),
+        url("./img2.jpg");
+
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
